@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>🧰 AIO CRYPTO DRAINER ALL-IN-ONE MULTICHAIN 2024 🧰</h1>
+  <h1>🧰 AIO CRYPTO DRAINER ALL-IN MULTICHAIN 2024 🧰</h1>
 </div>
 
 ---
