@@ -15,7 +15,7 @@
 ---
 <div align="center">
 
-### 📩 **Automatic responder on [Telegram](https://t.me/drainers_shop_bot) , [Discord](https://discord.gg/) , [WebSite](https://t.me/drainers_shop_bot) to purchase the full source code.**
+### 📩 **Automatic responder on [Telegram](https://t.me/drainers_shop_bot)  , [WebSite](https://t.me/drainers_shop_bot) to purchase the full source code.**
 </div>
 
 ---
